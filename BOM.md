@@ -1,7 +1,3 @@
-Edit this file to add a bill of materials
+I used 3/4 plywood because I over-engineer everything.  1/2 would probably work fine, but you will have to modify the slots and seat holes
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+I plan on using one set of these on each stool to hold the seat and footrest down https://www.leevalley.com/en-us/shop/hardware/fasteners/connectors/76549-striplox-90-panel-connectors
